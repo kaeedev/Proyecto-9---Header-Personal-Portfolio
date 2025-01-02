@@ -9,7 +9,7 @@ Maquetación de un header para un portfolio personal realizado con HTML, CSS, As
 El objetivo de este proyecto es aplicar todo lo aprendido en HTML, CSS, Astro y Tailwind
 
 ## 👁️ Vista previa del proyecto
-<img src="/assets/preview.jpg" width=1200>
+<img src="public/assets/preview.jpg" width=1200>
 <img src="/assets/previewmobile.jpg" width=300>
 
 
