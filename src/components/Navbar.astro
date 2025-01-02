@@ -1,0 +1,22 @@
+---
+import Logo from "./Logo.astro"
+---
+<nav class=" px-8 py-8 ">
+    <div class="max-w-7xl  mx-auto flex items-center justify-between">
+      <div class="text-pink-500 font-bold text-xl">
+        <Logo/>
+      </div>
+
+      <div class="hidden absolute left-1/2 transform -translate-x-1/2 md:flex space-x-8 text-gray-700 text-[18px] font-poppins flex-nowrap items-center whitespace-nowrap">
+        <a href="#" class="hover:text-pink-500 font-medium hover:animate-tada">Home</a>
+        <a href="#" class="hover:text-pink-500 font-medium hover:animate-tada">Service</a>
+        <a href="#" class="hover:text-pink-500 font-medium hover:animate-tada">Portfolio</a>
+        <a href="#" class="hover:text-pink-500 font-medium hover:animate-tada">How we works</a>
+      </div>
+
+      <button class="md:hidden block text-white transition-colors duration-500 font-bold  p-3 bg-pink-500 hover:bg-pink-400 rounded ease-in-out hover:animate-tada">
+        <p class="landing-section text-sm">Menú</p>
+      </button>
+    </div>
+  </nav>
+
