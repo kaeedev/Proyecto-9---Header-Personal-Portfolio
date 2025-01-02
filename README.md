@@ -22,13 +22,13 @@ El proyecto está organizado por componentes. Cada componente es utilizado en el
 
 Podrás usar la página pinchando en el siguiente enlace gracias a Github Pages:
 
-https://kaeedev.github.io//
+[https://kaeedev.github.io//](https://kaeedev.github.io/Proyecto-9-Header-Personal-Portfolio/)
 
 ## 🛠️ Instalación y Ejecución
 
 1. Clona este repositorio:
    ```bash
-   https://github.com/kaeedev/tesla-landing.git
+   [https://github.com/kaeedev/tesla-landing.git](https://github.com/kaeedev/Proyecto-9-Header-Personal-Portfolio.git)
 
 2. No requiere de instalación. Con la extensión live server o similares de VSCODE podrás ver el proyecto de manera local
 
@@ -65,12 +65,12 @@ The project is organized by components. Each component is used in index.astro.
 
 You can access the page by clicking the following link, thanks to GitHub Pages:
 
-https://kaeedev.github.io/tesla-landing/
+[https://kaeedev.github.io/tesla-landing/](https://kaeedev.github.io/Proyecto-9-Header-Personal-Portfolio/)
 
 ## 🛠️ Installation and Execution
 Clone this repository:
   ```bash
-  https://github.com/kaeedev/tesla-landing.git
+  [https://github.com/kaeedev/tesla-landing.git](https://github.com/kaeedev/Proyecto-9-Header-Personal-Portfolio.git)
   ```
 
 No installation is required. You can view the project locally using the Live Server extension or similar tools in VSCode.
